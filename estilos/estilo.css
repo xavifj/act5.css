@@ -1,0 +1,74 @@
+:root{
+    /* Creo un color llamado --mate1 */
+    --color-mate1: #F9E79F;
+    /* Creo un color llamado --valen1 */
+    --color-valen1: #A9DFBF;
+    --color-caste1:  #ddee0d;
+    --color-historia1:  #ee470d;
+    --color-ingles1:  #0dee33;
+    --color-tecno1: #c90dee;
+    --color-IAEE1: #0de1ee;
+    --color-O1: #0deeb8;
+    --color-02: #6d0dee;
+    --color-valors1: #ee0d44;
+    --color-EF1: #ee410d;
+}
+.caste1{
+    background-color: var(--color-caste1);
+    width: 50px;
+}
+.historia1{
+    background-color: var(--color-historia1) ;
+    width: 50px;
+}
+.ingles1{
+    background-color: var(--color-ingles1);
+    width: 50px;
+}
+.tecno1{
+    background-color: var(--color-tecno1) ;
+    width: 50px;
+}
+.IAEE1{
+    background-color: var(--color-IAEE1);
+    width: 50px;
+}
+.O1{
+    background-color: var(--color-O1);
+    width: 50px;
+}
+.O2{
+    background-color: var(--color-02);
+    width: 50px;
+}
+.valors1{
+    background-color: var(--color-valors1);
+    width: 50px;
+}
+.EF1{
+    background-color: var(--color-EF1);
+    width: 50px;
+}
+.mate1{
+    background-color: var(--color-mate1);
+    width: 50px;
+}
+.valen1{
+    background-color: var(--color-valen1);
+    width: 50px;
+}
+.tabla-horario{
+    border-collapse: collapse;
+}
+.tabla-horario td, .tabla-horario th{
+    border: 1px solid black;
+}
+.hora1{
+    background-color: #ddee0d;
+}
+.dia1{
+    background-color: aqua;
+}
+.horario1{
+    background-color: brown;
+}
