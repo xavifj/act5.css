@@ -4,7 +4,7 @@
     /* Creo un color llamado --valen1 */
     --color-valen1: #A9DFBF;
     --color-caste1:  #ddee0d;
-    --color-historia1:  #ee470d;
+    --color-historia1:  pink;
     --color-ingles1:  #0dee33;
     --color-tecno1: #c90dee;
     --color-IAEE1: #0de1ee;
@@ -64,11 +64,23 @@
     border: 1px solid black;
 }
 .hora1{
-    background-color: #ddee0d;
+    background-color: orange;
 }
 .dia1{
     background-color: aqua;
 }
 .horario1{
-    background-color: brown;
+    background-color: palevioletred;
+}
+.PATIO{
+    background-color: sienna;
+}
+.Tutoria{
+    background-color: olive;
+}
+h1{
+    text-align: center;
+}
+table{
+    margin: 30px auto;
 }
